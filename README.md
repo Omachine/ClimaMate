@@ -50,7 +50,8 @@ Ensure these dependencies are properly configured in your project.
 To use this app, obtain an API key from OpenWeatherMap. Replace the placeholder API key in `WeatherViewModel.kt` with your own key:
 
 ```kotlin
-private val API: String = "YOUR_OPENWEATHERMAP_API_KEY" ```
+private val API: String = "YOUR_OPENWEATHERMAP_API_KEY"
+```
 
 ## Contributing
 
