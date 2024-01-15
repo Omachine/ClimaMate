@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575309525486",
+    "project_id": "climamate-b649e",
+    "storage_bucket": "climamate-b649e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575309525486:android:a1b313d0c83b58f57a5eff",
+        "android_client_info": {
+          "package_name": "ipca.project.climamate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD96hOItsCD2YFca-uh_oLtns7mhAGxRv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
