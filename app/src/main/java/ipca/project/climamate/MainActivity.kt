@@ -14,7 +14,6 @@ import java.util.*
 class MainActivity : AppCompatActivity() {
 
     private lateinit var weatherViewModel: WeatherViewModel
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
