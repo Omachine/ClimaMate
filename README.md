@@ -1,5 +1,9 @@
 # Weather App
 
+##Made by
+
+Gonçalo Moreira, nº25965
+
 ## Description
 
 The Weather App is a simple Android application written in Kotlin that fetches real-time weather information for a specified city using the OpenWeatherMap API. The app displays various weather parameters such as temperature, humidity, wind speed, and sunrise/sunset times.
