@@ -1,6 +1,6 @@
 # Weather App
 
-##Made by
+## Made by
 
 Gonçalo Moreira, nº25965
 
